@@ -51,8 +51,8 @@ You can also register and add your own contact list.
 Login:
 ![homepage](https://github.com/mcnika/laravel-ajax-crud/raw/master/public/images/login.jpg "Login")
 
-Contacts list:
-![homepage](https://github.com/mcnika/laravel-ajax-crud/raw/master/public/images/contacts-list.jpg "Contacts list")
+Contact list:
+![homepage](https://github.com/mcnika/laravel-ajax-crud/raw/master/public/images/contacts-list.jpg "Contact list")
 
 Create a contact:
 ![homepage](https://github.com/mcnika/laravel-ajax-crud/raw/master/public/images/create-a-contact.jpg "Create a contact")
